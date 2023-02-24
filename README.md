@@ -1,6 +1,6 @@
 # Interactive GUI for COVID19 Data Visualization
 
-![splash](https://user-images.githubusercontent.com/59469182/221230339-d32c1b67-2912-43ed-89cd-a527fb171a19.png)
+<!-- ![splash](https://user-images.githubusercontent.com/59469182/221230339-d32c1b67-2912-43ed-89cd-a527fb171a19.png) -->
 
 * Developed an interactive GUI which can be packaged and installed on Windows platform, using OOP concepts of MATLAB. 
 * Features of the GUI:
